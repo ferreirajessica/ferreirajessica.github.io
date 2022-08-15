@@ -1,0 +1,45 @@
+
+
+
+.maintitle {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+body {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.letters {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+font-family:'Ubuntu', sans-serif;
+font-size: medium;
+
+}
+
+
+.button {
+    color: white;
+    background-color: #264653;
+    text-decoration: none;
+    padding: 15px 30px;
+    
+}
+
+
+
+#fotojess {
+    border-radius: 100%;
+    
+}
+
+ul {
+    list-style-position: inside;
+}
+
